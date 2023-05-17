@@ -9,7 +9,7 @@ Library of Open Source projects for Attitude Determination and Orbit Control.
 
 ## 🎈 Prerequisites
 - Theoretical and conceptual understanding of working principles of Attitude Determination and Orbit Control Systems.
-- MATLAB
+- MATLAB.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MATLAB](https://matlab.mathworks.com/) - Language 
