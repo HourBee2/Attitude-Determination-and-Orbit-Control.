@@ -8,7 +8,7 @@ Library of Open Source projects for Attitude Determination and Orbit Control.
 - ADCS (Python & Jupyter Notebook) directory is primarily in [Python](https://www.python.org/) and [Jupyter Notebook](https://jupyter.org/).
 
 ## 🎈 Prerequisites
-- Theoretical and conceptual understanding of working principles of Attitude Determination and Orbit Control systems.
+- Theoretical and conceptual understanding of working principles of Attitude Determination and Orbit Control Systems.
 - MATLAB
 
 ## ⛏️ Built Using <a name = "built_using"></a>
