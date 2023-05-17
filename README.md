@@ -7,7 +7,7 @@ Library of Open Source projects for Attitude Determination and Orbit Control.
 - View the Attitude Determination Toolbox Report in the ADCS Toolbox Master (MATLAB) directory and run the project on MATLAB
 - ADCS (Python & Jupyter Notebook) directory is primarily in [Python](https://www.python.org/) and [Jupyter Notebook](https://jupyter.org/).
 
-### 🎈 Prerequisites
+## 🎈 Prerequisites
 - Theoretical and conceptual understanding of working principles of Attitude Determination and Orbit Control systems.
 - MATLAB
 
