@@ -1,5 +1,5 @@
 # Attitude-Determination-and-Orbit-Control.
-Library of Open Source projects for Attitude Determination and Orbit Control. 
+Open Sourced projects for Attitude Determination and Orbit Control. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 - It is highly recommended to start with the theoretical and conceptual framework in the Lectures folder in the ADCS (Python & Jupyter Notebook) directory.
